@@ -1,8 +1,8 @@
 ## 🏎️ F1 Telemetry Analysis Dashboard 🏁
 
-An interactive data-driven dashboard that analysis Formula 1 telemetry to compare driver performance using real-world race data.
+A professional-grade telemetry analysis tool built using real Formula 1 race data to compare driver performance through interactive visualizations.
 
-The application enables users to visualize speed, throttle, and braking behavior across a lap, compare multiple drivers, and explore track layouts with performance insights. Built using Python, FastF1, and Streamlit, this project simulates real-world race engineering analysis tools used in motorsport.
+Inspired by real engineering workflows used in Formula 1.
 
 ## 🚀 Features
 - 📊 Driver vs Driver comparison
@@ -18,10 +18,32 @@ The application enables users to visualize speed, throttle, and braking behavior
 - Matplotlib
 - Streamlit
 
-## 📸 Screenshots
-<img width="1366" height="647" alt="image1" src="https://github.com/user-attachments/assets/03eaeac6-84c1-4e67-88b6-0705b193c61a" />
-<img width="1366" height="647" alt="image1" src="https://github.com/user-attachments/assets/2b4526c3-56d9-4de8-b607-edd9779bf1cb" />
+## 📂 Project Structure
 
+F1-Telemetry-Analysis/
+│── app.py
+│── main.py
+│── src/
+│── assets/
+│── requirements.txt
+│── README.md
+
+
+## 📸 Screenshots
+!Dashboard <img width="1366" height="647" alt="image1" src="https://github.com/user-attachments/assets/03eaeac6-84c1-4e67-88b6-0705b193c61a" />
+!Comparison <img width="1366" height="647" alt="image1" src="https://github.com/user-attachments/assets/2b4526c3-56d9-4de8-b607-edd9779bf1cb" />
+!Track <img width="1366" height="673" alt="image3" src="https://github.com/user-attachments/assets/2c7ddf3f-c383-4299-9587-e229da4d6918" />
+
+
+## 🧠 Key Insights Generated
+
+- Compare driver speed across lap distance  
+- Analyze throttle and braking patterns  
+- Identify performance differences across track sections  
+- Visualize track layout with speed heatmap 
+
+## 🌐 Live Demo
+(http://localhost:8501/)
 
 ## 💡 Future Improvements
 
