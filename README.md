@@ -29,10 +29,11 @@ F1-Telemetry-Analysis/
 │── README.md
 
 
-## 📸 Screenshots
-!Dashboard <img width="1366" height="647" alt="image1" src="https://github.com/user-attachments/assets/03eaeac6-84c1-4e67-88b6-0705b193c61a" />
-!Comparison <img width="1366" height="647" alt="image1" src="https://github.com/user-attachments/assets/2b4526c3-56d9-4de8-b607-edd9779bf1cb" />
-!Track <img width="1366" height="673" alt="image3" src="https://github.com/user-attachments/assets/2c7ddf3f-c383-4299-9587-e229da4d6918" />
+## 📸 Dashboard Preview
+
+![Speed](assets/screenshots/image1.png)
+![Comparison](assets/screenshots/image2.png)
+![Track](assets/screenshots/image3.png)
 
 
 ## 🧠 Key Insights Generated
@@ -44,6 +45,10 @@ F1-Telemetry-Analysis/
 
 ## 🌐 Live Demo
 (http://localhost:8501/)
+
+🧠 Use Case
+
+This project simulates telemetry analysis used in Formula 1 to compare driver performance and optimize racing strategies.
 
 ## 💡 Future Improvements
 
