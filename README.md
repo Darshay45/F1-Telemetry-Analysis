@@ -30,3 +30,8 @@ The application enables users to visualize speed, throttle, and braking behavior
 - 🌐 Live Deployment: Host the app using Streamlit Cloud for public access
 - 📈 Multi-driver comparison: Compare more than two drivers simultaneously
 - 🎮 Race Replay System: Animate car movement and race progression
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+python -m streamlit run app.py
